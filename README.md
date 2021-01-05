@@ -1,4 +1,4 @@
-React app to display Bitcoin rates
+<b>React app to display Bitcoin rates</b>
 
 This simple React app 
 * fetches real-time data from 3rd party API
